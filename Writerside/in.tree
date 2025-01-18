@@ -7,4 +7,5 @@
                  start-page="mainpage.md">
 
     <toc-element topic="mainpage.md"/>
+    <toc-element topic="rust_ownership.md"/>
 </instance-profile>
